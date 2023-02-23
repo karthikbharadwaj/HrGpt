@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "replace with api key"
 
 
 model_engine = "text-davinci-003"
